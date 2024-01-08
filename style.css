@@ -1,0 +1,14 @@
+th,td,caption{
+    border: 2px solid black;
+    border-collapse: seperate;
+    padding: 0.5rem;
+}
+*{
+    font-family: sans-serif;
+}
+
+
+
+
+
+
